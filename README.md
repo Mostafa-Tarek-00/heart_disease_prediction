@@ -42,6 +42,12 @@ The dataset contains the following columns:
 13. `thal`: Thalassemia type (numerical).
 14. `target`: Presence of heart disease (0: no disease, 1: disease).
 
+## Exploratory Data Analysis
+
+Visualizing the data using scatter plots:
+
+![Age vs Max Heart Rate](Age_vs_Max_Heart_Rate.png)
+
 ## Models Used
 
 The following classification models were implemented and their performance scores were compared:
@@ -53,7 +59,8 @@ The following classification models were implemented and their performance score
 - **Support Vector Machine (SVM)**: Accuracy - 70.49%
 - **Gaussian Naive Bayes**: Accuracy - 86.89%
 - **CatBoost Classifier**: Accuracy - 83.61%
-
+## Models Comparison Graph
+![Model Comparison](model_comparison.png)
 ## Conclusion
 
 In this project, we utilized various machine learning models to predict heart disease based on a set of medical attributes. The **Logistic Regression** model achieved the highest accuracy among the tested models. The performance of each model was evaluated using metrics such as precision, recall, F1-score, and ROC curves. This project demonstrates the application of machine learning techniques in the healthcare domain for predicting heart disease.
