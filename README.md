@@ -1,6 +1,6 @@
 # Heart Disease Prediction Project
 
-This project focuses on predicting the presence or absence of heart disease based on various features using machine learning techniques. The dataset consists of medical attributes that could contribute to the prediction of heart disease. We've implemented and compared several classification models to achieve this goal.
+The project's emphasis lies in predicting the presence or absence of heart disease through machine learning techniques, utilizing diverse features. The dataset comprises medical attributes potentially relevant to heart disease prediction. The accomplishment of this objective involves the implementation and comparison of multiple classification models.
 
 ## Libraries Used
 
@@ -62,4 +62,4 @@ The following classification models were implemented and their performance score
 ![Model Comparison](Model_Comparison.png)
 ## Conclusion
 
-In this project, we utilized various machine learning models to predict heart disease based on a set of medical attributes. The **Logistic Regression** model achieved the highest accuracy among the tested models. The performance of each model was evaluated using metrics such as precision, recall, F1-score, and ROC curves. This project demonstrates the application of machine learning techniques in the healthcare domain for predicting heart disease.
+In this project, a variety of machine learning models were employed to predict heart disease using a set of medical attributes. The **Logistic Regression** model demonstrated the highest accuracy among the models tested. Assessment of each model's performance included metrics like precision, recall, F1-score, and ROC curves. This project illustrates the utilization of machine learning methods in healthcare, specifically for the prediction of heart disease.
