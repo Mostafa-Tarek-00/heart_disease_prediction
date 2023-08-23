@@ -1,4 +1,3 @@
-# heart_disease_prediction
 # Heart Disease Prediction Project
 
 This project focuses on predicting the presence or absence of heart disease based on various features using machine learning techniques. The dataset consists of medical attributes that could contribute to the prediction of heart disease. We've implemented and compared several classification models to achieve this goal.
