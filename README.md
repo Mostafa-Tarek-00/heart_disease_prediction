@@ -60,7 +60,7 @@ The following classification models were implemented and their performance score
 - **Gaussian Naive Bayes**: Accuracy - 86.89%
 - **CatBoost Classifier**: Accuracy - 83.61%
 ## Models Comparison Graph
-![Model Comparison](model_comparison.png)
+![Model Comparison](Model_Comparison.png)
 ## Conclusion
 
 In this project, we utilized various machine learning models to predict heart disease based on a set of medical attributes. The **Logistic Regression** model achieved the highest accuracy among the tested models. The performance of each model was evaluated using metrics such as precision, recall, F1-score, and ROC curves. This project demonstrates the application of machine learning techniques in the healthcare domain for predicting heart disease.
